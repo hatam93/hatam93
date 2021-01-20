@@ -5,7 +5,7 @@
 
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![React](https://img.shields.io/badge/-React-3A8397?style=for-the-badge&logo=React&logoColor=141414)
+![React](https://img.shields.io/badge/-React-3A8397?style=for-the-badge&logo=React&logoColor=E9D54D)
 ![Redux](https://img.shields.io/badge/-Redux-7248B6?style=for-the-badge&logo=Redux&logoColor=E9D54D)
 
 ### Follow Me:
